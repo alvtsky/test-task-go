@@ -3,7 +3,7 @@
 ## Description
 
 Go version - 1.21.0 \
-Server port - 8080 \
+Server port - 8080
 
 ```
 # Dev mode
